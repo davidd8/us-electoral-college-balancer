@@ -1,0 +1,11 @@
+name: us-electoral-college-solver
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - appmode
+  - ipywidgets
+  - pip:
+    - pandas
+    - pulp
