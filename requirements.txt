@@ -3,3 +3,4 @@ numpy
 pandas
 pulp==1.6.10
 widgetsnbextension==3.5.*
+appmode
